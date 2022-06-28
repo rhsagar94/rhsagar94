@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhsagar94&layout=compact)
 
-![rhsagar94's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhsagar94&show_icons=true&theme=dracula)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhsagar94&show_icons=true&locale=en&theme=react&count_private=true" alt="rhsagar94" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rhsagar94)
 
